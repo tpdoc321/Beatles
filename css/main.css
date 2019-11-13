@@ -12,13 +12,12 @@
    ========================================================================== */
 
 html {
-  color: #b1b339;
+  color: #000000;
   font-size: 1em;
   line-height: 1.4;
 }
 body  {
   background-color: aliceblue;
-  background-image: url("../img/The_Beatles_magical_mystery_tour.jpg") ;
 }
 /*
  * Remove text-shadow in selection highlight:
