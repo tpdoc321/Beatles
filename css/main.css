@@ -18,6 +18,8 @@ html {
 }
 body  {
   background-color: aliceblue;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 /*
  * Remove text-shadow in selection highlight:
